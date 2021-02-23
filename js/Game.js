@@ -37,7 +37,7 @@ class Game {
     cars = [car1,car2,car3,car4];
   }
 
-  play(){
+  ..play(){
     form.hide();
     //textSize(30);
     //text("Game Start", 120, 100)
